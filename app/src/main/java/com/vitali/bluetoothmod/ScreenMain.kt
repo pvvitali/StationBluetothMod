@@ -255,7 +255,7 @@ fun ScreenMain(
 
 
 
-
+        // для отладки
         Spacer(modifier = Modifier.height(30.dp))
         Button(
             onClick = { sendMessage("ggg___fff") },
